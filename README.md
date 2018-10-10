@@ -3,12 +3,12 @@
 </p>
 
 # Projetos Open-source
-Querendo contribuir em algum projeto? ou tem algum projeto prescisando ajuda?
-Esta utlizando Vue, Nuxt, Quasar ou qualquer outra lib do ecosistema Vue.
+Querendo contribuir em algum projeto? Ou tem algum projeto prescisando ajuda?
+Esta utilizando Vue, Nuxt, Quasar ou qualquer outra lib do ecossistema Vue. 
 
-Este espaço é pra você!
+Este espaço é para você! 
 
-Resolvemos adicionar esse repositório pra apoiar ou até mesmo criar novos projetos, conforme sugestões da própria comunidade via _issues_ do Github.
+Resolvemos adicionar esse repositório para apoiar ou até mesmo criar novos projetos, conforme sugestões da própria comunidade via _issues_ do Github. 
 
 Projetos disponíveis em [https://github.com/vuejs-br/open-source/issues](https://github.com/vuejs-br/open-source/issues)
 
